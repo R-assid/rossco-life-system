@@ -1,2 +1,2 @@
 # Builder Chat
-Type your requests here for the AI to respond.
+@builder >> Help me make a daily task list with checkboxes
